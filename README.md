@@ -1,6 +1,6 @@
 # Do Zero ao Deploy com React.js e Next.js
 
-## Introdução
+## Introdução a
 
 Bem-vindos ao workshop de React! Este repositório serve como apoio para acompanhar o conteúdo e realizar as práticas ao longo do curso. Qualquer dúvida, não hesite em recorrer aos instrutores que estarão disponíveis para ajudar.
 
